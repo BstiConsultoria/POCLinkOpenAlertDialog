@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"><u><b><i>POCLinkOpenAlertDialog</i></b></u></string>
+    <string name="register">Copyright</string>
+    <string name="about">About</string>
+    <string name="horario_funcionamento">Horário de Funcionamento</string>
+    <string name="app_descrip">Lakatitas Delivery Express</string>
+    <string name="app_credits">2016-2017 Lakatitas Pizzaria. All rights reserved</string>
+
+    <string-array name="horarios">
+        <item>Dom     17:45 às 23:45</item>
+        <item>Seg     Fechado</item>
+        <item>Ter     17:45 às 23:45</item>
+        <item>Qua     17:45 às 23:45</item>
+        <item>Qui     17:45 às 23:45</item>
+        <item>Sex     17:45 às 23:45</item>
+        <item>Sáb     17:45 às 23:45</item>
+    </string-array>
+
+</resources>

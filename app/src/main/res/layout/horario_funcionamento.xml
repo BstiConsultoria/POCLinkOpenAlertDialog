@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    >
+
+    <ListView
+        android:id="@+id/lvopcoes"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="8dp">
+    </ListView>
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </TextView>
+    <Button
+        android:id="@+id/btn_fechar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:textColor="@color/colorAccent"
+        android:text="FECHAR"
+        android:gravity="right"
+        android:layout_marginRight="16dp"
+        />
+</LinearLayout>
